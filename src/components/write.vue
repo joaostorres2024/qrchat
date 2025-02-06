@@ -18,6 +18,7 @@
 
 <style scoped>
     .write-container {
+    max-width: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;

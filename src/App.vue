@@ -2,12 +2,14 @@
   import tophead from './components/tophead.vue'
   import txt from './components/txt.vue'
   import write from './components/write.vue'
+  import darkmode from './components/darkmode.vue'
 </script>
 
 <template>
   <tophead></tophead>
   <txt></txt>
   <write></write>
+  <darkmode></darkmode>
 </template>
 
 <style scoped>

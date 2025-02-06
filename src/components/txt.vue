@@ -9,6 +9,7 @@
 
 <style scoped>
     .cont-containe{
+        max-width: 100%;
         height: 100vh;
         width: 100vw;
         text-align: center;
@@ -18,7 +19,7 @@
     }
 
     .text-container{
-        padding: 40px 0;
+        padding: 60px 0;
     }
 
     .h1-cont{
